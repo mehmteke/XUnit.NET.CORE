@@ -11,7 +11,13 @@ namespace Calculations.Test
         [Fact]
         public void TestAdd()
         {
-            Assert.True(true);  
+            //Arrange
+            int number1 = 10, number2 = 20;
+            int expected = 30, actual = 0;
+            //Act
+            actual = Calcolator.Add(number1,number2);
+            //Assert
+            Assert.Equal(expected,actual);
         }
     }
 }
