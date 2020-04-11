@@ -1,0 +1,11 @@
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations\bin\Debug\netcoreapp2.2\Calculations.deps.json
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations\bin\Debug\netcoreapp2.2\Calculations.runtimeconfig.json
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations\bin\Debug\netcoreapp2.2\Calculations.runtimeconfig.dev.json
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations\bin\Debug\netcoreapp2.2\Calculations.dll
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations\bin\Debug\netcoreapp2.2\Calculations.pdb
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations\obj\Debug\netcoreapp2.2\Calculations.csprojAssemblyReference.cache
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations\obj\Debug\netcoreapp2.2\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations\obj\Debug\netcoreapp2.2\Calculations.AssemblyInfoInputs.cache
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations\obj\Debug\netcoreapp2.2\Calculations.AssemblyInfo.cs
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations\obj\Debug\netcoreapp2.2\Calculations.dll
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations\obj\Debug\netcoreapp2.2\Calculations.pdb

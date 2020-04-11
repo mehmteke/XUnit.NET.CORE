@@ -1,0 +1,17 @@
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations.Test\bin\Debug\netcoreapp2.2\Calculations.dll
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations.Test\obj\Debug\netcoreapp2.2\Calculations.Test.csprojAssemblyReference.cache
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations.Test\obj\Debug\netcoreapp2.2\Calculations.Test.csproj.CoreCompileInputs.cache
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations.Test\obj\Debug\netcoreapp2.2\Calculations.Test.AssemblyInfoInputs.cache
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations.Test\obj\Debug\netcoreapp2.2\Calculations.Test.AssemblyInfo.cs
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations.Test\bin\Debug\netcoreapp2.2\Calculations.Test.deps.json
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations.Test\bin\Debug\netcoreapp2.2\Calculations.Test.runtimeconfig.json
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations.Test\bin\Debug\netcoreapp2.2\Calculations.Test.runtimeconfig.dev.json
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations.Test\bin\Debug\netcoreapp2.2\Calculations.Test.dll
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations.Test\bin\Debug\netcoreapp2.2\Calculations.Test.pdb
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations.Test\bin\Debug\netcoreapp2.2\Calculations.pdb
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations.Test\obj\Debug\netcoreapp2.2\Calculations.Test.csproj.CopyComplete
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations.Test\obj\Debug\netcoreapp2.2\Calculations.Test.dll
+C:\Users\MEHMTEKE\Source\Repos\Calculations\Calculations.Test\obj\Debug\netcoreapp2.2\Calculations.Test.pdb
