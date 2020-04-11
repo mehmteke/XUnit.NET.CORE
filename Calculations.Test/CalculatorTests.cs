@@ -8,18 +8,21 @@ namespace Calculations.Test
     public class CalculatorTests
     {
         [Fact]
+        [Trait("Category","Number")]
         public void Add_GivenTwoIntValues_ReturnInt()
         {
             int result = Calcolator.Add(1,2);
             Assert.Equal(3, result);
         }
         [Fact]
+        [Trait("Category","Number")]
         public void AddDouble_GivenTwoDoubleValues_ReturnDouble()
         {
             double result = Calcolator.AddDouble(1.2,3.5);
             Assert.Equal(4.7,result);
         }
         [Fact]
+        [Trait("Category","String")]
         public void MakeFullName_GivenNameAndSurname_ReturnFullName()
         {
             var calc = new Calcolator();
@@ -33,6 +36,7 @@ namespace Calculations.Test
             */
         }
         [Fact]
+        [Trait("Category","String")]
         public void NickName_MustBeNull()
         {
             var calc = new Calcolator();
@@ -40,6 +44,7 @@ namespace Calculations.Test
             Assert.NotNull(calc.NickName);
         }
         [Fact]
+        [Trait("Category","String")]
         public void MakeFullName_AlwaysReturnValues()
         {
             var calc = new Calcolator();
